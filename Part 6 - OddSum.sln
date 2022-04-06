@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 6 - OddSum", "Part 6 - OddSum\Part 6 - OddSum.csproj", "{C022D2C7-DABB-4CAC-BBFA-200E8D2FA000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C022D2C7-DABB-4CAC-BBFA-200E8D2FA000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C022D2C7-DABB-4CAC-BBFA-200E8D2FA000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C022D2C7-DABB-4CAC-BBFA-200E8D2FA000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C022D2C7-DABB-4CAC-BBFA-200E8D2FA000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB9F1A0-701A-42FE-873E-40DF2C18509E}
+	EndGlobalSection
+EndGlobal
